@@ -1,2 +1,2 @@
 # my-first-hacked-client
-chắc chắn ko nhái bất kì client nào
+chắc chắn không lấy hack từ ai cả
